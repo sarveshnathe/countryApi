@@ -17,7 +17,7 @@ A React application that fetches data from the [REST Countries API](https://rest
   - [Acknowledgments](#acknowledgments)
 
 ## Demo
-Check out the live demo of the project [here](#) (add your deployed link here).
+Check out the live demo of the project [here](#) (https://dazzling-gelato-d0e7a4.netlify.app/).
 
 ## Features
 - Search for countries by name.
