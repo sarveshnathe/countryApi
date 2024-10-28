@@ -17,7 +17,7 @@ A React application that fetches data from the [REST Countries API](https://rest
   - [Acknowledgments](#acknowledgments)
 
 ## Demo
-Check out the live demo of the project [here](#) (https://dazzling-gelato-d0e7a4.netlify.app/).
+Check out the live demo of the project [here](https://dazzling-gelato-d0e7a4.netlify.app/).
 
 ## Features
 - Search for countries by name.
@@ -36,7 +36,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/sarveshnathe/countryApi.git
    cd your-repo-name
    ```
 
